@@ -28,11 +28,10 @@ async def start_handlers(c, m):
     await m.reply_text(
         "Hello **Dear!**\n\n"
         "I am a telegra.ph uploader.\n\n"
-        "⍟ I can upload photos to telegra.ph and gives you the link.\n"
-        "⍟ I can create a instant view link for your text.\n"
-        "⍟ I can create post in telegra.ph if you send any text.\n"
-        "(You can send text in format `post content|TITLE`)\n\n"
-        "Create your own [𝗙𝗼𝗿𝗸 𝗡𝗼𝘄](https://github.com/Ns-AnoNymouS/Telegraph-Uploader)",
+        "🔥 I can upload photos to telegra.ph and gives you the link.\n"
+        "🔥 I can create a instant view link for your text.\n"
+        "🔥 I can create post in telegra.ph if you send any text.\n"
+        "(You can send text in format `post content|TITLE`)",
         disable_web_page_preview=True,
         quote=True
     )
